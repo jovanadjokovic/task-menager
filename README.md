@@ -1,0 +1,1 @@
+This is Task Menager app. It is part of Node.js course on Udemy "The Complete Node.js Developer Course (3rd Edition)". I am only at the beginning, but I've already learned a lot. I've studied NoSQL working in MongoDB. I'm going to upload every future progress of this app. I am positive that I'm going to learn a lot more.
